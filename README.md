@@ -21,7 +21,7 @@ In this project, SparkSQL was used to evaluate key metrics about home sales data
 
 **Question 4:** What is the average price of a home per "view" rating having an average home price greater than or equal to $350,000?
 
-![(https://github.com/jttran97/Home_Sales/blob/f2fa090de3c018ab154a1514a6d0b3f2bc46be29/Images/view_ratings.png)](https://github.com/jttran97/Home_Sales/blob/29d27036ec62036ea7c7da4267758aac7a580517/Images/avg_4bed.png)
+![(https://github.com/jttran97/Home_Sales/blob/f2fa090de3c018ab154a1514a6d0b3f2bc46be29/Images/view_ratings.png)](https://github.com/jttran97/Home_Sales/blob/a49581a5aa4a4bd181b220cbb43325221319c87b/Images/view_ratings.png)
 
 **Run Times on Question 4**
 - Uncached: 0.7150566577911377 seconds
