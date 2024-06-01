@@ -8,16 +8,16 @@ In this project, SparkSQL was used to evaluate key metrics about home sales data
 
 ## Analysis
 **Question 1:** What is the average price for a four-bedroom house sold for each year? 
-
+(Images/avg_4bed.png)
 
 **Question 2:** What is the average price of a home for each year the home was built, that has three bedrooms and three bathrooms? 
-
+(Images/avg_3bed_3bath.png)
 
 **Question 3:** What is the average price of a home for each year the home was built, that has three bedrooms, three bathrooms, two floors, and is greater than or equal to 2,000 square feet?
-
+(Images/avg_3bed_2floors.png)
 
 **Question 4:** What is the average price of a home per "view" rating having an average home price greater than or equal to $350,000?
-
+(Images/view_ratings.png)
 
 **Run Times on Question 4**
 1. Uncached: 0.7150566577911377 seconds
