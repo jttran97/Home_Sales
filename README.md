@@ -4,7 +4,7 @@
 In this project, SparkSQL was used to evaluate key metrics about home sales data. Spark was used to create temporary views, partition the data, cache, and uncache a temporary table, and verify that the table has been uncached. 
 
 ## Data
-[Home Sales dataset](https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-classroom/v1.2/22-big-data/home_sales_revised.csv)
+- [Home Sales dataset](https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-classroom/v1.2/22-big-data/home_sales_revised.csv)
 
 ## Analysis
 **Question 1:** What is the average price for a four-bedroom house sold for each year? 
@@ -24,6 +24,6 @@ In this project, SparkSQL was used to evaluate key metrics about home sales data
 ![(https://github.com/jttran97/Home_Sales/blob/f2fa090de3c018ab154a1514a6d0b3f2bc46be29/Images/view_ratings.png)](https://github.com/jttran97/Home_Sales/blob/29d27036ec62036ea7c7da4267758aac7a580517/Images/avg_4bed.png)
 
 **Run Times on Question 4**
-1. Uncached: 0.7150566577911377 seconds
-2. Cached: 0.33871889114379883 seconds
-3. Parquet DataFrame: 0.4382476806640625 seconds
+- Uncached: 0.7150566577911377 seconds
+- Cached: 0.33871889114379883 seconds
+- Parquet DataFrame: 0.4382476806640625 seconds
